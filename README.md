@@ -5,9 +5,11 @@ This is an effort by [datameet](http://www.datameet.org) to create a reasonably 
 [Creative Commons](http://creativecommons.org/licenses/by/3.0/) geomapping of
 [PIN codes](http://en.wikipedia.org/wiki/Postal_Index_Number) in India.
 
-**How do I contribute to the map?**
-**How do I contribute to the map?**
-**How do I contribute to the map?**
+**How do I contribute to the map1?**
+
+**How do I contribute to the map2?**
+
+**How do I contribute to the map3?**
 
 Go to [http://pincode.datameet.org/IN/110001](http://pincode.datameet.org/IN/110001) (or any other PIN code).
 Place or move the marker where you think the PIN code should be placed. Save it.
