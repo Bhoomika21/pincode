@@ -6,6 +6,8 @@ This is an effort by [datameet](http://www.datameet.org) to create a reasonably 
 [PIN codes](http://en.wikipedia.org/wiki/Postal_Index_Number) in India.
 
 **How do I contribute to the map?**
+**How do I contribute to the map?**
+**How do I contribute to the map?**
 
 Go to [http://pincode.datameet.org/IN/110001](http://pincode.datameet.org/IN/110001) (or any other PIN code).
 Place or move the marker where you think the PIN code should be placed. Save it.
