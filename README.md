@@ -7,8 +7,6 @@ This is an effort by [datameet](http://www.datameet.org) to create a reasonably 
 
 **How do I contribute to the map1?**
 
-**How do I contribute to the map2?**
-
 **How do I contribute to the map3?**
 
 Go to [http://pincode.datameet.org/IN/110001](http://pincode.datameet.org/IN/110001) (or any other PIN code).
