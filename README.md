@@ -7,6 +7,8 @@ This is an effort by [datameet](http://www.datameet.org) to create a reasonably 
 
 **How do I contribute to the map1?**
 
+**How do I contribute to the map new?**
+
 **How do I contribute to the map3?**
 
 Go to [http://pincode.datameet.org/IN/110001](http://pincode.datameet.org/IN/110001) (or any other PIN code).
@@ -16,7 +18,7 @@ Anyone can log in and edit. A history of all changes will be maintained.
 **How do I get the data out?**
 
 Download from [http://pincode.datameet.org/download](http://pincode.datameet.org/download).
-
+Cancel Changes
 **How good is this data?**
 
 The original data was sourced from <a href="http://download.geonames.org/export/zip/">GeoNames</a>. We've no idea how good or bad it is.
